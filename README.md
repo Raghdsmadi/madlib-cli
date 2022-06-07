@@ -4,7 +4,7 @@ Author: Raghd Smadi :read_heart:
 
 ********************************************************
 
-[madlib pull request](https://github.com/Raghdsmadi/math-series/pull/3) <br>
+[madlib pull request](https://github.com/Raghdsmadi/madlib-cli) <br>
 How to run my application: <br>
 python madlib.py <br>
 pyton test.py <br>
