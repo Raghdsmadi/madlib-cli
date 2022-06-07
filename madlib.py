@@ -46,9 +46,9 @@ def merge(content, user_inputs):
 
 if __name__ == '__main__':
     print('''
-    ****Mad Libs is a phrasal template word game. It consists of one player prompting others for a list of
-    ****words to substitute for blanks in a story before reading aloud
-    ****So please type in what is needed like adjective, noun, etc when asked and see the outcome unfold\n''')
+    ### Mad Libs is a simple phrasal template word game. It consists of one player prompting others for a list of
+    words to substitute for blanks in a story before reading aloud
+   So please type in what is needed  when asked and see the outcome ''')
 
     read = read_template('assets/madlib.txt')
     parse, words = parse_template(read)
